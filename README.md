@@ -114,7 +114,7 @@ None, pure python code.
 ## License
 MIT License
 
-Copyright (c) 2017 Navdeesh Ahuja
+Copyright (c) 2022 Charlton Christ
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
